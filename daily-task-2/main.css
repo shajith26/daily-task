@@ -1,0 +1,36 @@
+.container{
+	width:100%;
+	height:auto;
+}
+.flex-about{
+	display:flex;
+	justify-content:space-between;
+}
+.aboutimg img{
+	width:40%;
+	background-position:cover;
+}
+.img-1{
+	padding-left:250px;
+}
+.about-text{
+	width:80%;
+	padding-right:150px;
+}
+.text-1{
+	display:flex;
+	justify-content:space-between;
+}
+.text-2{
+	display:flex;
+	justify-content:space-between;
+}
+.icon-1{
+	padding-top:20px;
+	padding-left:5px;
+    font-size: 30px;
+    color: yellow;
+}
+.heading-1 h2{
+	font-size:25px;
+}
