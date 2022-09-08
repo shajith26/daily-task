@@ -1,0 +1,44 @@
+.container{
+	width:93%;
+	height:auto;
+	margin:50px;
+}
+
+.heading{
+	text-align:center;
+}
+.row-1{
+	display:flex;
+	margin: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+	padding-top: 10px;
+}
+.sec-1{
+	text-align:center;
+}
+
+.icon-1{
+	font-size: 35px;
+	margin-left: 170px;
+    margin-right: 170px;
+    padding-bottom: 10px;
+    border-radius: 35px;
+	padding-top: 15px;
+	box-shadow: 1px 2px 13px 1px lightblue;
+}
+.line-1{
+	margin-left: 589px;
+    height: 2px;
+    width: 60px;
+    background-color: lightblue;
+    margin-top: -10px;
+}
+.line-2{
+	width: 50px;
+    height: 2px;
+    background-color: lightblue;
+    margin-left: 180px;
+	margin-top: -8px;
+}
