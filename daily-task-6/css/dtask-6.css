@@ -1,0 +1,91 @@
+.container{
+	width:100%;
+	height:auto;
+	margin-left:0px;
+	margin-right:0px;
+}
+
+.header{
+	text-align:center;
+	margin-top:30px;
+	
+}
+
+.row{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top: 50px;
+}
+.free{
+	border: solid 1px lightgray;
+	text-align: center;
+	width:20%;
+}
+.hbgc{
+	background-color:lightgray;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px;
+    margin-bottom: 23px;
+}
+.icon-1{
+	color:blue;
+	position: absolute;
+	left: 145px;
+    bottom: 102px;
+    font-size: 20px;
+}
+.num{
+	color:blue;
+	position: relative;
+    font-size: 25px;
+}
+.h4{
+	background-color: lightgray;
+    padding: 10px 10px 12px 11px;
+    margin-top: 0px;
+}
+.free .h4{
+	background-color: lightgray;
+    margin-top: 0px;
+    margin-bottom: 23px;
+    padding: 10px 0px 10px 0px;
+}
+.bgc{
+	background-color:lightgray;
+	padding: 12px;
+}
+.button{
+	background-color: blue;
+    color: #fff;
+    border: 0px;
+    border-radius: 4px;
+    padding: 5px 20px 5px 20px;
+}
+.hbgc-2{
+	background-color: blue;
+	color: #fff;
+	 padding: 10px 10px 10px 10px;
+    margin-top: 0px;
+    margin-bottom: 23px;
+}
+.free .ab{
+	height:30px;
+	width:100px;
+	background-color: blue;
+	position:absolute;
+	top:3%;
+	right:-10%;
+	transform:rotate(45deg);
+	display:flex;
+	text-align:center;
+	
+}
+.easy {
+	position:relative;
+	overflow:hidden;
+}
+.easy h3{
+	position:absolute;
+	top:-50%;
+	margin-left:23px;
+}
