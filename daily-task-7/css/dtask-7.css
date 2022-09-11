@@ -1,0 +1,67 @@
+.container{
+	height:auto;
+	margin-top: 80px;
+    margin-left: 70px;
+}
+
+.row{
+	display:flex;
+	justify-content:space-evenly;
+	margin: 25px 100px 25px 25px;
+}
+
+.sec-1{
+	width: 17%;
+	box-shadow: 0px 0px 10px -5px #999;
+	border: solid 1px lightgray;
+	padding: 10px 50px 10px 10px
+}
+
+.icofont-hour-glass{
+	font-size: 25px;
+	color:blue;
+}
+.icofont-exclamation-tringle{
+	font-size: 25px;
+	color:lightgreen;
+}
+.icofont-eraser{
+	font-size: 25px;
+	color:violet;
+}
+.icofont-heart-beat{
+	font-size: 25px;
+	color:gray;
+}
+.icofont-focus{
+	font-size: 25px;
+	color:purple;
+}
+.icofont-fire-burn{
+	font-size: 25px;
+	color:green;
+}
+.icofont-heart{
+	font-size: 25px;
+	color:pink;
+}
+.icofont-leaflet{
+	font-size: 25px;
+	color:orange;
+}
+.icofont-leaf{
+	font-size: 25px;
+	color:green;
+}
+.icofont-jewlery{
+	font-size: 25px;
+	color:red;
+}
+.icofont-infinite{
+	font-size: 25px;
+	color:black;
+}
+.icofont-image{
+	font-size: 25px;
+	color:yellow;
+}
