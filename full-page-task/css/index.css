@@ -5,14 +5,15 @@
 }
 
 .container {
-    width: 100%;
+    width: auto;
     height: auto;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .head {
     display: flex;
     justify-content: space-between;
-    margin: 0px 150px 0px 150px;
 }
 
 .logo {
@@ -51,14 +52,13 @@
     background-color: #fff;
     content: "";
     z-index: -1;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .bnr1 {
     display: flex;
     
     justify-content: space-between;
-    margin: 0px 150px 0px 150px;
 }
 
 .icon1 {
@@ -70,7 +70,6 @@
 .blist {
     display: flex;
     justify-content: space-evenly;
-    margin: 0px 150px 0px 150px;
 }
 
 .bcontent {
@@ -113,3 +112,117 @@
 .blist1 p{
     font-size: 15px;
 }
+.ahead{
+    text-align: center;
+}
+.ahead h1{
+    color: darkblue;
+    margin: 40px 0px 15px 0px;
+}
+.about-content{
+    margin: 40px 0px 50px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.about-content1{
+    width: 50%;
+}
+.about-content1 i{
+    color: dodgerblue;
+    padding-right: 5px;
+}
+.apara2{
+    line-height: 30px;
+    margin-top: 12px;
+}
+.about-content2{
+    width: 50%;
+}
+.aboutbtn{
+    border-radius: 5px;
+    background: #fff;
+    border-color: dodgerblue;
+    padding: 5px 12px;
+    margin-top: 23px;
+    color: dodgerblue;
+}
+.achivements{
+    background-color: rgb(205, 221, 226);
+    padding: 40px 0px;
+    text-align: center;
+}
+.achivements h1{
+    font-size: 45px;
+    margin-bottom: 10px;
+    color: darkblue;
+}
+.achivements p{
+    color: darkslateblue;
+}
+.achiveflex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.review{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.reviewflex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.reviewimg{
+    width: 50%;
+    height: auto;
+    padding: 0px 5px 0px 25px;
+    box-sizing: border-box;
+}
+
+.reimg img{
+    width: 100%;
+    height: auto;
+}
+.reviewcontent{
+    width: 50%;
+    padding-left: 10px;
+}
+.reviewcontent h2{
+    margin-bottom: 10px;
+    color: darkblue;
+}
+.reviewcontent p{
+    margin-bottom: 10px;
+}
+.reviewcontent i{
+    padding-right: 5px;
+    color: rgb(107, 183, 208);
+}
+.rp{
+margin-top: 25px; 
+}
+.brand{
+    background-color: powderblue;
+    padding: 40px 0px 18px 0px;
+}
+.brandflex{
+    display: flex;
+    justify-content: space-between;
+}
+.clint1 img{
+    width: 50%;
+    height: auto;
+}
+.testhead {
+    text-align: center;
+}
+.testhead h1{
+    color: darkblue;
+    margin: 50px 0px 20px 0px;
+    font-size: 30px;
+}    
