@@ -217,6 +217,7 @@ margin-top: 25px;
 .clint1 img{
     width: 50%;
     height: auto;
+    filter:grayscale(1);
 }
 .testhead {
     text-align: center;
@@ -225,4 +226,48 @@ margin-top: 25px;
     color: darkblue;
     margin: 50px 0px 20px 0px;
     font-size: 30px;
-}    
+}
+.testflex{
+    display: flex;
+    justify-content: space-between;
+}
+.tlist1{
+    width: 33%;
+    margin: 10px;
+    text-align: center;
+}
+.tlist1 p{
+    background-color: rgb(233, 243, 246);
+    padding: 25px 5px;
+    margin: 30px 10px 10px 10px;
+}
+.tlist1 img{
+    width: 35%;
+    border-radius: 50%;
+    margin: 10px 85px;
+}
+.tlist1 i{
+    color: rgb(166, 215, 239);
+}
+.tlist1 h6{
+    color: rgb(200, 200, 236);
+}
+.cflex{
+    display: flex;
+    justify-content: center;
+}
+.circle{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: solid 1px lightblue;
+    margin: 45px 3px;
+}
+.circle1{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    /* border: solid 1px lightblue; */
+    background-color: rgb(111, 154, 204);
+    margin: 45px 3px;
+}
