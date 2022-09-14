@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;
+}
+
+.logo {
+    padding: 10px 0px;
+}
+
+.navi ul {
+    display: flex;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: 15px;
+}
+
+.navi ul li {
+    padding: 10px 12px 10px 12px;
+}
+
+.btn1 {
+    background-color: blue;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 13px 5px 13px;
+}
+
+.banner {
+    background-image: url(../image/hero-bg.jpg);
+    position: relative;
+    z-index: 1;
+}
+.bnrblur{
+    position: absolute;
+    width: 100%;
+    height: 642px;
+    background-color: #fff;
+    content: "";
+    z-index: -1;
+    opacity: 0.7;
+}
+
+.bnr1 {
+    display: flex;
+    
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;
+}
+
+.icon1 {
+    font-size: 100px;
+    color: darkblue;
+    padding: 65px 0px 0px 50px;
+}
+
+.blist {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 150px 0px 150px;
+}
+
+.bcontent {
+    text-align: center;
+    
+    margin: 83px 375px 35px 0px;
+}
+
+.bcontent h1 {
+    font-size: 40px;
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+.btn2 {
+    background-color: blue;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    padding: 7px 15px 7px 15px;
+    margin-top: 15px;
+}
+.blist1{
+    background-color:#fff;
+    background-color: #fff;
+    padding: 40px 35px 40px 15px;
+    margin: 75px 7px 40px 7px;
+    line-height: 26px;
+    box-shadow: 0px 0px 10px -4px;
+}
+
+.blist1 i{
+    font-size: 37px;
+    color: dodgerblue;
+}
+.blist1 h3{
+    margin-top: 10px;
+    color: dodgerblue;
+}
+.blist1 p{
+    font-size: 15px;
+}
