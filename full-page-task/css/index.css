@@ -501,6 +501,7 @@ margin-top: 25px;
 }
 .faq{
     background-color: rgb(214, 234, 241);
+    padding-bottom: 50px;
 }
 .faqhead{
     text-align: center;
@@ -528,4 +529,77 @@ margin-top: 25px;
 }
 .faqlist-1 h3{
     color: rgb(122, 164, 205);
+}
+.chead{
+    text-align: center;
+}
+.chead h1{
+color: darkblue;
+margin:50px 0px 20px 0px;
+}
+.map{
+    margin: 20px 0px;
+}
+.c1{
+    width: 40%;
+}
+.formflex{
+    display: flex;
+}
+.locationflex{
+    display: flex;
+}
+.c2{
+    width: 60%;
+}
+.formr1{
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.yourname input{
+    width: 300px;
+    height: 35px;
+}
+.youremail input{
+    width: 300px;
+    height: 35px;
+}
+.formrr2{
+    padding-bottom: 10px;
+}
+.formrr2 input{
+    width: 629px;
+    height: 35px;
+}
+.address textarea{
+    width: 629px;
+    height: 100px;
+}
+.formbtn{
+    text-align: center;
+}
+.formbtn button{
+    background-color:dodgerblue;
+    color: #fff;
+    padding: 5px 12px 5px 12px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.footer1flex{
+    display: flex;
+    justify-content: space-between;
+}
+.join input{
+    width: 225px;
+    height: 30px;
+    border: solid 1px dodgerblue;
+}
+.join button{
+    background-color: dodgerblue;
+    border: 0px;
+    color: #fff;
+    padding: 7.5px 12px 7.5px 12px;
+    border-radius: 0px 5px 5px 0px;
 }
