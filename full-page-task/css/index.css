@@ -343,3 +343,189 @@ margin-top: 25px;
     color: #fff;
     margin-top: 10px;
 }
+.porthead{
+    text-align: center;
+    margin-top: 50px;
+}
+.porthead h1{
+    color: darkblue;
+    padding-bottom: 20px;
+}
+.portnavi{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.portnavi div{
+    padding: 5px;
+}
+.allcolor{
+    color: darkblue;
+}
+.portimg1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pcimg1{
+    width: 33.33%;
+}
+.pcimg2{
+    width: 33.33%;
+}
+.pcimg3{
+    width: 33.33%;
+}
+.pcimg1 img{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.pcimg2 img{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.pcimg3 img{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.team{
+    background-color: rgb(214, 234, 241);
+    padding-bottom: 50px;
+}
+.teamhead{
+    text-align: center;
+    padding: 50px 0px;
+}
+.teamhead h1{
+    color: darkblue;
+    padding-bottom: 10px;
+}
+.teamflex{
+    display: flex;
+    justify-content: space-between;
+}
+.teamimg1{
+    width: 23%;
+    box-shadow: 0px 0px 5px #b7b0b0;
+}
+.teamimg1 img{
+    width: 100%;
+    
+}
+.teaminfo1{
+    background-color: #fff;
+    margin-top: -4px;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    height: 65px;
+}
+.teaminfo1 h3{
+    color: darkblue;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.teaminfo1 p{
+    color: rgb(206, 194, 194);
+}
+.teamicon{
+    text-align: center;
+    background-color: #fff;
+    opacity: 0.7;
+    position: relative;
+    top: -86px;
+    padding: 10px;
+}
+.teamicon i{
+    color: darkblue;
+    padding: 10px 10px;
+    font-size: 17px;
+}
+.pricehead{
+    text-align: center;
+}
+.pricehead h1{
+    color: darkblue;
+    margin-top: 20px;
+    padding: 20px;
+}
+.pricingflex{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0px;
+}
+.price1{
+    width: 32%;
+    text-align: center;
+    line-height: 30px;
+    box-shadow: 0px 0px 11px -10px;
+    padding: 30px 10px 30px 10px;
+}
+.price1 sup{
+    font-size: 20px;
+    color: dodgerblue;
+}
+.price1 b{
+    font-size: 25px;
+    color: dodgerblue;
+}
+.pbtn{
+    background-color: white;
+    border: solid 1px dodgerblue;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color:dodgerblue;
+    margin-top: 10px;
+}
+.price2{
+    width: 32%;
+    text-align: center;
+    line-height: 30px;
+    box-shadow: 0px 0px 11px -10px;
+    padding: 30px 10px 30px 10px;
+    background-color:dodgerblue;
+}
+.price2 b{
+    font-size: 25px;
+    color: white;
+}
+.pbtn2{
+    background-color:dodgerblue;
+    border: solid 1px white;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color:white;
+    margin-top: 10px;
+}
+.faq{
+    background-color: rgb(214, 234, 241);
+}
+.faqhead{
+    text-align: center;
+}
+.faqhead h1{
+    color: darkblue;
+    padding: 50px 0px 20px 0px;
+}
+.faqlist{
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+}
+.faqlist-1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.faqlist-1 i{
+    color: lightblue;
+}
+.faqlist p{
+    padding: 10px;
+}
+.faqlist-1 h3{
+    color: rgb(122, 164, 205);
+}
