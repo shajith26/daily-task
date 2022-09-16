@@ -591,6 +591,9 @@ margin:50px 0px 20px 0px;
     display: flex;
     justify-content: space-between;
 }
+.join{
+    padding: 20px;
+}
 .join input{
     width: 225px;
     height: 30px;
