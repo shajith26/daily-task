@@ -608,12 +608,24 @@ margin:50px 0px 20px 0px;
     border-radius: 5px;
     margin-top: 10px;
 }
+.footer1{
+    margin-top: 30px;
+    padding-top: 25px
+}
 .footer1flex{
     display: flex;
     justify-content: space-between;
 }
 .join{
-    padding: 10px;
+    width: 35%;
+}
+.join h3{
+    font-size: 23px;
+    color: darkblue;
+    margin-bottom: 10px;
+}
+.join p{
+    margin-bottom: 15px;
 }
 .join input{
     width: 225px;
@@ -636,9 +648,35 @@ margin:50px 0px 20px 0px;
     margin-top: 10px;
     line-height: 25px;
 }
-.info1 b , .fc2 h4{
+.info1 b , .fc2 h3{
     color: darkblue;
 }
 .fc2{
     line-height: 30px;
+}
+.fc2 i{
+    color: rgb(146, 202, 221);
+}
+.footer2{
+    background-color: #e9f5f9;
+    padding: 21px 0px;
+}
+.footer2flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ficon{
+    display: flex;
+    justify-content: end;
+}
+.copyrights{
+    line-height: 25px;
+}
+.ficon1{
+    color: white;
+    background-color: dodgerblue;
+    margin: 0px 5px 0px 0px;
+    padding: 11px;
+    border-radius: 5px;
 }
