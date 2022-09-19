@@ -27,14 +27,22 @@
     align-items: center;
     font-size: 15px;
 }
-
+.navi li a{
+    text-decoration: none;
+    color: black;
+}
 .navi ul li {
     padding: 10px 12px 10px 12px;
 }
-
+.navi ul li .btn1 a{
+    color: #fff;
+}
+.navi li a:hover{
+    color: darkblue;
+}
 .btn1 {
     background-color: blue;
-    color: #fff;
+    color:#fff;
     border: 0;
     border-radius: 5px;
     padding: 5px 13px 5px 13px;
@@ -145,6 +153,11 @@
     padding: 5px 12px;
     margin-top: 23px;
     color: dodgerblue;
+}
+.aboutbtn:hover{
+    background-color: dodgerblue;
+    color: #fff;
+    transition: ease-in-out 0.2s;
 }
 .achivements{
     background-color: rgb(205, 221, 226);
